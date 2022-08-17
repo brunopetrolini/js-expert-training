@@ -1,0 +1,23 @@
+[
+  {
+    "id": "98a93721-307e-4491-bc12-2dc77d4b9d23",
+    "name": "Grand Cherokee",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "b5825ad0-86d2-47cd-ac51-8e1a1786444d",
+    "name": "ATS",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "24e8c362-b74b-4ee6-a032-e4201e1e5815",
+    "name": "Mustang",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
